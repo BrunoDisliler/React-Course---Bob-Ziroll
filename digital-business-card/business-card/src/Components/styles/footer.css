@@ -4,43 +4,44 @@
   height: 64px;
   left: 116px;
   top: 760px;
-  
+
   background: #161619;
   border-radius: 0px 0px 10px 10px;
 }
 
-#twitter {
-  left: 34.36%;
-  right: 61.09%;
-  top: 89.75%;
-  bottom: 7.37%;
+#linkedin {
+  left: 73px;
+  right: 219px;;
+  top: 20px;
+  bottom: 20px;
   
-  background: #918E9B;
+  background: #161619;
 }
 
 #facebook {
-  left: 43.27%;
-  right: 52.18%;
-  top: 89.75%;
-  bottom: 7.37%;
+  margin-left: 24px;
+  right: 270px;
+  top: 20px;
+  bottom: 20px;
   
-  background: #918E9B;
+  background: #161619;
 }
 
 #instagram {
-  left: 52.18%;
-  right: 43.27%;
-  top: 89.75%;
-  bottom: 7.37%;
+  left: 24px;
+  right: 121px;
+  top: 20px;
+  bottom: 20px;
   
-  background: #918E9B;
+  background: #161619;
 }
 
 #github {
-  left: 61%;
-  right: 34.45%;
-  top: 89.8%;
-  bottom: 7.32%;
+  left: 24px;
+  right: 72px;
+  top: 20px;
+  bottom: 20px;
   
-  background: #918E9B;
+  
+  background: #161619;
 }
