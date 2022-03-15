@@ -1,4 +1,5 @@
 # **Solo project: Digital business card**
+## My [Linkedin](https://www.linkedin.com/in/brunodisliler/)
 
 ## You'll wrap up the first section by completing your first Solo Project - a digital business card.
 
