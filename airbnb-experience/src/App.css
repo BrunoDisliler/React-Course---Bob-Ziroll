@@ -56,11 +56,34 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
-section {
-  padding: 20px;
-}
 
 .hero {
   display: flex;
   flex-direction: column;
+}
+
+#Katie {
+  width: 176px;
+  height: 235px;
+  margin-left: 36px;
+  top: 521px;
+
+  border-radius: 9px;
+}
+
+#Info {
+  position: absolute;
+  width: 176px;
+  height: 58px;
+  margin-left: -174px;
+  margin-top: -40px;
+  top: 765px;
+}
+
+#SoldOut {
+  position: absolute;
+  width: 61px;
+  height: 20px;
+  left: 43px;
+  top: 490px;
 }
