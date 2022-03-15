@@ -1,9 +1,12 @@
 #social {
+  display: flex;
   position: absolute;
   width: 317px;
   height: 64px;
-  left: 116px;
-  top: 760px;
+  margin-left: 116px;
+  margin-top: 760px;
+  justify-content: center;
+  align-items: center;
 
   background: #161619;
   border-radius: 0px 0px 10px 10px;
@@ -28,7 +31,7 @@
 }
 
 #instagram {
-  left: 24px;
+  margin-left: 24px;
   right: 121px;
   top: 20px;
   bottom: 20px;
@@ -37,7 +40,7 @@
 }
 
 #github {
-  left: 24px;
+  margin-left: 24px;
   right: 72px;
   top: 20px;
   bottom: 20px;
