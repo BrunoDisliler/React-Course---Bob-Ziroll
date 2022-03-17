@@ -3,4 +3,4 @@
 
 ## You'll wrap up the first section by completing your first Solo Project - a digital business card.
 
-### Waiting to finish my style with css to post it here the final image...
+![Captura de tela de 2022-03-15 16-43-22](https://user-images.githubusercontent.com/80045207/158458739-d1a96250-32f4-4e56-9b24-e6d979db500c.png)
